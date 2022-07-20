@@ -1,0 +1,4 @@
+This path generate at 2022-720
+The purpose is to compare two methods to calculate MTG index
+first, the index is calculated using (90-100) averaged 15N - 5N
+second, the index is calculated by zonal and meridional average gradient between 5 to 15N
